@@ -43,4 +43,6 @@ ___
 # Installation
 `git clone https://github.com/Michimuri/qtile-themes.git`
 
+`mv qtile-themes/themes ~/.config/qtile/themes`
+
 Or just copy the colors, since these themes are just JSON files.
